@@ -1,2 +1,2 @@
 # AzureClub-1
-AzureClub-1
+Pierwsze spotkanie Azure Club
